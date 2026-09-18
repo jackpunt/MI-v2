@@ -15,3 +15,11 @@ D: By induction all nodes added to a fully connected graph can be colored with a
 E: But you say, when adding a node to a not-fully connected graph, there may be more than 3 new edges! So we add extra, temporary edges to complete the n-graph, picking pairs of diffently colored nodes. Rather like the other proof where one was removeing nodes and re-coloring and then re-adding the critical node, but now we are a adding temp edges which we later remove.
 
 Need to investigate step E; but the central point is step "C" to demonstrate "why four colors suffice for any planar graph".
+
+It may be that E may be achieved by induction on the number of temp edges that need to be added. Removing a temp edge (between nodes a & b) allows the n+1 node to connect to now connect to an additional node (c) that was blocked the the a-b edge. 
+
+Going from n=4 to n=5, there are a finite number of partial-connected 4-graphs (combinatorics). For each partial 4-graph, there is a finite number (4) of distinct places for the 5th node to be placed (relative to the connectivity of the fully-connected 4-graph). (Presumably) we can show that E works for each case.
+
+Expect that going from general n to n+1 the number of placements is combinatorially bounded (is that related to the various counts of "unavoidable sets"?). Expect that each case reduces to something already proven at n-1.
+
+
