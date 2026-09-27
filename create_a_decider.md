@@ -19,3 +19,9 @@ So there must be something in the layers of cellular organization that evolves t
 
 Inspired by "The Dispossessed", about social organization and individual freedom, how the anarchist society controls the individual freedoms; but scales down to brain function, and the evolution of a 'decider' which becomes its own conception of "consciousness".
 
+Goes back to the hierarchy of organization and levels of abstraction or order of magnitude of scale.
+At higher levels, there are emergent properties that 'override' or 'redefine' the organization/definition/operation of the system. If it _possible_ to use reductionism to explain the higher level in terms of the lower level, but becomes difficult and 'un-economical' (in terms of insight per analytical effort) to continue at the lower level. the emergent properties are the properties of interest, the lower level 'implementation details' become less useful, and in some cases totally irrelevant 
+
+See also a discussion of _virtual machines_; the orthogonality of what is being achieved or 'computed' from the mechanism or materials being used. a computer can be build from electronics or hydraulics or mechanial gears and ratches, and still produce the same results. Although: the choice of technology will affect how it system scales! the emergent properties of a steam-powered mechanical computer will be vastly different from the emergent properties of a electrically powered, transistor-
+based computer.
+
