@@ -25,3 +25,13 @@ At higher levels, there are emergent properties that 'override' or 'redefine' th
 See also a discussion of _virtual machines_; the orthogonality of what is being achieved or 'computed' from the mechanism or materials being used. a computer can be build from electronics or hydraulics or mechanial gears and ratches, and still produce the same results. Although: the choice of technology will affect how it system scales! the emergent properties of a steam-powered mechanical computer will be vastly different from the emergent properties of a electrically powered, transistor-
 based computer.
 
+---
+Back to Dispossessed:
+
+Originally thinking about when (at which level) does free-will and freedom arise.
+
+Originally about 'ownership': does a person owns their thoughts, and their decisions?
+If they write them down, do they still own them? even if written on community supplied paper, with community supplies ink? If the thoughts are science produced by community 'funded' scientist?  If the private journal of personal thoughts and feelings? must they be shared with the community? do they become community property because of the paper & ink? or because the thoughts/words are from interactions with the community? because the person is phyically derived from community supplied food/shelter/culture? 
+
+The whole basis for "the individual is a cellular component of the collective" is fraught.
+
